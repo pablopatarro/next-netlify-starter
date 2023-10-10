@@ -6,12 +6,12 @@ export default function Home() {
     return (
         <div className="container">
             <Head>
-                <title>Esta es una prueba para ver si haciendo push desde VSCode se actualiza la página</title>
+                <title>Mi primera app con Next JS</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
             <main>
-                <Header title="Welcome to my app!" />
+                <Header title="Esta es una prueba de como se hace integración del código desde GitHub" />
                 <p className="description">
                     Vamos a tener que trabajar mucho para aprender Next.js...
                 </p>
